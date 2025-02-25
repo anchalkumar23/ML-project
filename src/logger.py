@@ -1,4 +1,4 @@
-import logging 
+import logging #Any Expception or error can  be logged in log file
 import os
 from datetime import datetime 
 
